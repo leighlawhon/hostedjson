@@ -58,8 +58,8 @@
         },
         {
             "name": "S4_1200x1600",
-            "width": 200,
-            "height": 200,
+            "width": 1200,
+            "height": 1600,
             "addon": true,
             "full": true,
             "guide": true
