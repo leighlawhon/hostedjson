@@ -1,0 +1,566 @@
+{
+    "Epic": [
+        {
+            "name": "OfferLogo_200x200",
+            "width": 200,
+            "height": 200,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "IC1",
+            "width": 400,
+            "height": 400,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "IC2_128x128",
+            "width": 128,
+            "height": 128,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "DeveloperIcon_200x200",
+            "width": 200,
+            "height": 200,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "PublisherIcon_200x200",
+            "width": 200,
+            "height": 200,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "IC3",
+            "width": 512,
+            "height": 512,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "S3_2560x1440",
+            "width": 2560,
+            "height": 1440,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "S4_1200x1600",
+            "width": 200,
+            "height": 200,
+            "addon": true,
+            "full": true,
+            "guide": true
+        }
+    ],
+    "SonyPS": [
+        {
+            "name": "2160x2160",
+            "width": 2160,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "CA_3840x2160",
+            "width": 3840,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "3840x2160",
+            "width": 3840,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "BG_3840x2160",
+            "width": 3840,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "2880x2160",
+            "width": 2880,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "3152x1200",
+            "width": 3152,
+            "height": 1200,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "1440x2160",
+            "width": 1440,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Logo_2880x592",
+            "width": 2880,
+            "height": 592,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Hero",
+            "width": 2160,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Hero_Background_3840x2160",
+            "width": 3840,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "GameHub_SKU",
+            "width": 3840,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "BannerTall_780x1600",
+            "width": 780,
+            "height": 1600,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "WideWebBanner_790x250",
+            "width": 790,
+            "height": 250,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "SmallWebBanner_295x93",
+            "width": 295,
+            "height": 93,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Featured_3840x2160",
+            "width": 3840,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        }
+    ],
+    "XBOX": [
+        {
+            "name": "BoxArt_2160x2160",
+            "width": 2160,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "FeaturedPromo_1080x1080",
+            "width": 1080,
+            "height": 1080,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "PosterArt_1440x2160",
+            "width": 1440,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "SuperHeroArt_3840x2160",
+            "width": 3840,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "TitledHeroArt_1920x1080",
+            "width": 1920,
+            "height": 1080,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "C2C",
+            "width": 1087,
+            "height": 1465,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "DigitalSquare_2000x2000",
+            "width": 2000,
+            "height": 2000,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "DigitalRectangle_1087x1536",
+            "width": 1087,
+            "height": 1536,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "HomeBanner_416x216",
+            "width": 416,
+            "height": 216,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "StoreBanner_468x263",
+            "width": 468,
+            "height": 263,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "3840x2160",
+            "width": 3840,
+            "height": 2160,
+            "addon": true,
+            "full": true,
+            "guide": true
+        }
+    ],
+    "Steam": [
+        {
+            "name": "Steam_header_460x215",
+            "width": 460,
+            "height": 215,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Steam_capsule_sm_231x87",
+            "width": 231,
+            "height": 87,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Steam_capsule_main_616x353",
+            "width": 616,
+            "height": 353,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "capsule_vertical_374x448",
+            "width": 374,
+            "height": 448,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Pg_Background_1438x810",
+            "width": 1438,
+            "height": 810,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Library_Capsule_600x900",
+            "width": 600,
+            "height": 900,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Library_Hero_Banner_3840x1240",
+            "width": 3840,
+            "height": 1240,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Library_Product_Logo",
+            "width": 1280,
+            "height": 720,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Package_Header_707x232",
+            "width": 707,
+            "height": 232,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "steam_icon_32x32",
+            "width": 32,
+            "height": 32,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "steam_capsule_184x69",
+            "width": 184,
+            "height": 69,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "event_cover_800x450",
+            "width": 800,
+            "height": 450,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "event_header_1920x622",
+            "width": 1920,
+            "height": 622,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Image_570x600",
+            "width": 570,
+            "height": 600,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "1500x220",
+            "width": 1500,
+            "height": 220,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "event_spotlight_2108x460",
+            "width": 2108,
+            "height": 460,
+            "addon": true,
+            "full": true,
+            "guide": true
+        }
+    ],
+    "Nintendo_Switch": [
+        {
+            "name": "eShopBanner_1920x1080",
+            "width": 1920,
+            "height": 1080,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "PackShot",
+            "width": 300,
+            "height": 486,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "SquareHeroBanner",
+            "width": 1024,
+            "height": 1024,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "GameLogo",
+            "width": 0,
+            "height": 0,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "SquareTemplate_1000x1000",
+            "width": 1000,
+            "height": 1000,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Banner2to1_2000x1000",
+            "width": 2000,
+            "height": 1000,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "H16x9_1920x1080",
+            "width": 1920,
+            "height": 1080,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "H2x1_2160x1080",
+            "width": 2160,
+            "height": 1080,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "SQ_1080x1080",
+            "width": 1080,
+            "height": 1080,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "CharacterArt_360x490",
+            "width": 360,
+            "height": 490,
+            "addon": true,
+            "full": true,
+            "guide": true
+        }
+    ],
+    "Luna": [
+        {
+            "name": "GL",
+            "width": 1960,
+            "height": 980,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "TL",
+            "width": 960,
+            "height": 540,
+            "addon": true,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "TP",
+            "width": 524,
+            "height": 700,
+            "addon": true,
+            "full": false,
+            "guide": true
+        },
+        {
+            "name": "FRD",
+            "width": 3840,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "Screenshots",
+            "width": 3840,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "trailer_thubnail",
+            "width": 960,
+            "height": 540,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "FRM",
+            "width": 1275,
+            "height": 1700,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "BGM",
+            "width": 1275,
+            "height": 1700,
+            "addon": false,
+            "full": true,
+            "guide": true
+        },
+        {
+            "name": "BGD",
+            "width": 3840,
+            "height": 2160,
+            "addon": false,
+            "full": true,
+            "guide": true
+        }
+    ]
+}
