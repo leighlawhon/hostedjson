@@ -511,7 +511,7 @@
             "width": 525,
             "height": 700,
             "addon": true,
-            "full": false,
+            "full": true,
             "guide": true
         },
         {
