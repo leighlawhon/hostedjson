@@ -531,7 +531,7 @@
             "guide": true
         },
         {
-            "name": "trailer_thubnail",
+            "name": "trailer_thumbnail",
             "width": 960,
             "height": 540,
             "addon": false,
