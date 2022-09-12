@@ -6,7 +6,10 @@
             "height": 200,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "final_format": ["PNG", "SVG"],
+            "notes": "",
+            "requirements": "Uploaded PNGs should have an aspect ratio of 1:1. \n Logos should avoid containing shadows, borders, and large amounts of whitespace around."
         },
         {
             "name": "IC1",
