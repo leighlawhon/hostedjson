@@ -7,6 +7,8 @@
             "addon": true,
             "full": true,
             "guide": true,
+            "namingconvension": "lll_ddd_ttt_OfferLogo_200x200",
+            "namingconvensionlabel": "Offer Logo: 200x200",
             "final_format": [
                 "PNG",
                 "SVG"
@@ -20,7 +22,12 @@
             "height": 400,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_IC1",
+            "namingconvensionlabel": "Product Logo: 400x400",
+            "final_format": [],
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "IC2_128x128",
@@ -28,7 +35,12 @@
             "height": 128,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_IC2_128x128",
+            "namingconvensionlabel": "Support-A-Creator icon: 128x128",
+            "final_format": [],
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "DeveloperIcon_200x200",
@@ -36,7 +48,12 @@
             "height": 200,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_DeveloperIcon_200x200",
+            "namingconvensionlabel": "Developer Icon: 200x200",
+            "final_format": [],
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "PublisherIcon_200x200",
@@ -44,7 +61,12 @@
             "height": 200,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_PublisherIcon_200x200",
+            "namingconvensionlabel": "Publisher Icon: 200x200",
+            "final_format": [],
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "IC3",
@@ -52,7 +74,12 @@
             "height": 512,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_IC3",
+            "namingconvensionlabel": "App Icon Image: 512x512",
+            "final_format": [],
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "S3_2560x1440",
@@ -60,7 +87,12 @@
             "height": 1440,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_S3_2560x1440",
+            "namingconvensionlabel": "Product Landscape Image: 2560x1440",
+            "final_format": [],
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "S4_1200x1600",
@@ -68,7 +100,12 @@
             "height": 1600,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_S4_1200x1600",
+            "namingconvensionlabel": "Product Portrait Image: 1200x1600",
+            "final_format": [],
+            "notes": "",
+            "requirements": ""
         }
     ],
     "SonyPS": [
