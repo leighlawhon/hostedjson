@@ -1,197 +1,6 @@
 {
     "Epic": [
-        {
-            "name": "OfferLogo_200x200",
-            "width": 200,
-            "height": 200,
-            "addon": true,
-            "full": true,
-            "guide": true,
-            "final_format": [
-                "PNG",
-                "SVG"
-            ],
-            "notes": "",
-            "requirements": "Uploaded PNGs should have an aspect ratio of 1:1. \n Logos should avoid containing shadows, borders, and large amounts of whitespace around."
-        },
-        {
-            "name": "IC1",
-            "width": 400,
-            "height": 400,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "IC2_128x128",
-            "width": 128,
-            "height": 128,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "DeveloperIcon_200x200",
-            "width": 200,
-            "height": 200,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "PublisherIcon_200x200",
-            "width": 200,
-            "height": 200,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "IC3",
-            "width": 512,
-            "height": 512,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "S3_2560x1440",
-            "width": 2560,
-            "height": 1440,
-            "addon": true,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "S4_1200x1600",
-            "width": 1200,
-            "height": 1600,
-            "addon": true,
-            "full": true,
-            "guide": true
-        }
-    ],
-    "SonyPS": [
-        {
-            "name": "2160x2160",
-            "width": 2160,
-            "height": 2160,
-            "addon": true,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "CA_3840x2160",
-            "width": 3840,
-            "height": 2160,
-            "addon": true,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "3840x2160",
-            "width": 3840,
-            "height": 2160,
-            "addon": true,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "BG_3840x2160",
-            "width": 3840,
-            "height": 2160,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "2880x2160",
-            "width": 2880,
-            "height": 2160,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "3152x1200",
-            "width": 3152,
-            "height": 1200,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "1440x2160",
-            "width": 1440,
-            "height": 2160,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "Logo_2880x592",
-            "width": 2880,
-            "height": 592,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "Hero",
-            "width": 2160,
-            "height": 2160,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "Hero_Background_3840x2160",
-            "width": 3840,
-            "height": 2160,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "GameHub_SKU",
-            "width": 3840,
-            "height": 2160,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "BannerTall_780x1600",
-            "width": 780,
-            "height": 1600,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "WideWebBanner_790x250",
-            "width": 790,
-            "height": 250,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "SmallWebBanner_295x93",
-            "width": 295,
-            "height": 93,
-            "addon": false,
-            "full": true,
-            "guide": true
-        },
-        {
-            "name": "Featured_3840x2160",
-            "width": 3840,
-            "height": 2160,
-            "addon": true,
-            "full": true,
-            "guide": true
-        }
+        
     ],
     "XBox": [
         {
@@ -514,10 +323,10 @@
         },
         {
             "name": "TP",
-            "width": 525,
+            "width": 524,
             "height": 700,
             "addon": true,
-            "full": true,
+            "full": false,
             "guide": true
         },
         {
@@ -537,7 +346,7 @@
             "guide": true
         },
         {
-            "name": "trailer_thumbnail",
+            "name": "trailer_thubnail",
             "width": 960,
             "height": 540,
             "addon": false,
