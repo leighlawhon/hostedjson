@@ -1,323 +1,591 @@
 {
     "Epic": [
         {
-            "name": "OfferLogo_200x200",
+            "name": "Offer Logo",
             "width": 200,
             "height": 200,
             "addon": true,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_OfferLogo_200x200",
-            "namingconvensionlabel": "Offer Logo: 200x200",
             "final_format": [
                 "PNG",
                 "SVG"
             ],
+            "file_size": "500 KB",
             "notes": "",
-            "requirements": "Uploaded PNGs should have an aspect ratio of 1:1. \n Logos should avoid containing shadows, borders, and large amounts of whitespace around."
+            "requirements": "Uploaded PNGs should have an aspect ratio of 1:1. \r Logos should avoid containing shadows, borders, and large amounts of whitespace around."
         },
         {
-            "name": "IC1",
+            "name": "Product Logo (IC1)",
             "width": 400,
             "height": 400,
             "addon": false,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_IC1",
-            "namingconvensionlabel": "Product Logo: 400x400",
-            "final_format": [],
-            "notes": "",
-            "requirements": ""
+            "final_format": [
+                "PNG",
+                "SVG"
+            ],
+            "file_size": "",
+            "notes": "Please provide us with available full-color, dark, and light versions of your logo.",
+            "requirements": "Logos should not have shadows, borders, or large amounts of whitespace around them."
         },
         {
-            "name": "IC2_128x128",
+            "name": "Support-A-Creator icon (IC2)",
             "width": 128,
             "height": 128,
             "addon": false,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_IC2_128x128",
-            "namingconvensionlabel": "Support-A-Creator icon: 128x128",
-            "final_format": [],
-            "notes": "",
-            "requirements": ""
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "1 MB",
+            "notes": "The Support-A-Creator icon is used to indicate what a player's social network is playing as part of the friends list display.",
+            "requirements": "Please provide artwork that extends full bleed. The 128x128 circle mask will be applied during implementation"
         },
         {
-            "name": "DeveloperIcon_200x200",
+            "name": "Developer Icon",
             "width": 200,
             "height": 200,
             "addon": false,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_DeveloperIcon_200x200",
-            "namingconvensionlabel": "Developer Icon: 200x200",
-            "final_format": [],
+            "final_format": [
+                "PNG",
+                "SVG"
+            ],
+            "file_size": "500 KB",
             "notes": "",
             "requirements": ""
         },
         {
-            "name": "PublisherIcon_200x200",
+            "name": "Publisher Icon",
             "width": 200,
             "height": 200,
             "addon": false,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_PublisherIcon_200x200",
-            "namingconvensionlabel": "Publisher Icon: 200x200",
-            "final_format": [],
+            "final_format": [
+                "PNG",
+                "SVG"
+            ],
+            "file_size": "500 KB",
             "notes": "",
             "requirements": ""
         },
         {
-            "name": "IC3",
+            "name": "App Icon Image (IC3)",
             "width": 512,
             "height": 512,
             "addon": false,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_IC3",
-            "namingconvensionlabel": "App Icon Image: 512x512",
-            "final_format": [],
-            "notes": "",
-            "requirements": ""
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "1 MB",
+            "notes": "The image should be character/art focused, but a simple graphic is acceptable.",
+            "requirements": "Text should not be included"
         },
         {
-            "name": "S3_2560x1440",
+            "name": "Product Landscape Image (S3)",
             "width": 2560,
             "height": 1440,
             "addon": true,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_S3_2560x1440",
-            "namingconvensionlabel": "Product Landscape Image: 2560x1440",
-            "final_format": [],
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "1 MB",
             "notes": "",
-            "requirements": ""
+            "requirements": "The Logo should be included on the image."
         },
         {
-            "name": "S4_1200x1600",
+            "name": "Product Portrait Image (S4)",
             "width": 1200,
             "height": 1600,
             "addon": true,
             "full": true,
             "guide": true,
             "namingconvension": "lll_ddd_ttt_S4_1200x1600",
-            "namingconvensionlabel": "Product Portrait Image: 1200x1600",
-            "final_format": [],
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "1 MB",
             "notes": "",
+            "requirements": "The Logo should be included on the image."
+        },
+        {
+            "name": "Offer Landscape Image (S1)",
+            "width": 2560,
+            "height": 1440,
+            "addon": false,
+            "full": true,
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_S1_2560x1440",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "1 MB",
+            "notes": "",
+            "requirements": "The Logo should be included on the image."
+        },
+        {
+            "name": "Offer Portrait Offer Image (S2)",
+            "width": 1200,
+            "height": 1600,
+            "addon": false,
+            "full": true,
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_S2_1200x1600",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "1 MB",
+            "notes": "",
+            "requirements": "The Logo should be included on the image."
+        },
+        {
+            "name": "Featured Carousel Image (desktop/horizontal) (FC1)",
+            "width": 1920,
+            "height": 1080,
+            "addon": false,
+            "full": true,
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_FC1_1920x1080",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "1 MB",
+            "notes": "Select a background color that compliments or contrasts with the featured image, game poster or game theme.\rChoose darker backgrounds so the white/light fonts are easy to read.",
+            "requirements": "The Logo should be included on the image."
+        },
+        {
+            "name": "Featured Carousel Image (mobile/vertical) (FC2)",
+            "width": 1200,
+            "height": 1600,
+            "addon": false,
+            "full": true,
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_FC2_1200x1600",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "1 MB",
+            "notes": "Select a background color that compliments or contrasts with the featured image, game poster or game theme.\rChoose darker backgrounds so the white/light fonts are easy to read.",
+            "requirements": "The Logo should be included on the image."
+        },
+        {
+            "name": "Breaker (B1)",
+            "width": 1280,
+            "height": 960,
+            "addon": false,
+            "full": true,
+            "guide": true,
+            "namingconvension": "lll_ddd_ttt_B1_1280x960",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "1 MB",
+            "notes": "Select a background color that compliments or contrasts with the featured image, game poster or game theme.\rChoose darker backgrounds so the white/light fonts are easy to read.\rIf you want to upload an image with a background, make sure the module background color and image background color are the same so the module feels fluid, clean and does not look broken.",
             "requirements": ""
         }
     ],
     "SonyPS": [
         {
-            "name": "2160x2160",
+            "name": "Master Image",
             "width": 2160,
             "height": 2160,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_2160x2160_lclclc",
+            "final_format": [
+                "PNG",
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": "File must be 72 dpi, RGB color mode; must include game logo but NO OTHER TEXT"
         },
         {
-            "name": "CA_3840x2160",
+            "name": "Cover Art",
             "width": 3840,
             "height": 2160,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_GameHub_CA_3840x2160_lclclc",
+            "final_format": [
+                "PNG",
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": "No logos or text permitted. Focal point is on the right side of the screen."
         },
         {
-            "name": "3840x2160",
+            "name": "(PS4) PDP Background Image",
             "width": 3840,
             "height": 2160,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_PS4_PDP_BG_3840x2160",
+            "final_format": [
+                "PNG",
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": "No Logos or text permitted."
         },
         {
-            "name": "BG_3840x2160",
+            "name": "16x9 Master Image",
             "width": 3840,
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_3840x2160_lclclc",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": ""
         },
         {
-            "name": "2880x2160",
+            "name": "4x3 Master Image",
             "width": 2880,
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_2880x2160_lclclc",
+            "final_format": [
+                "PNG",
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": ""
         },
         {
-            "name": "3152x1200",
+            "name": "(PS5) Featured Image",
             "width": 3152,
             "height": 1200,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_3152x1200_lclclc",
+            "final_format": [
+                "PNG",
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": ""
         },
         {
-            "name": "1440x2160",
+            "name": "Portrait Master Image",
             "width": 1440,
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_1440x2160_lclclc",
+            "final_format": [
+                "PNG",
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": ""
         },
         {
-            "name": "Logo_2880x592",
+            "name": "Logo",
             "width": 2880,
             "height": 592,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_Logo_2880x592_lclclc",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": "The Logo, Hero Character and Background Layer Art assets are composited together as one image and, in some place, used individually. Background Layer Art (aka Hero LAYER should just be a BG image). Logo & Hero character should have a transparent BG."
         },
         {
-            "name": "Hero",
+            "name": "Hero Character",
             "width": 2160,
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_Hero_lclclc",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": "The Logo, Hero Character and Background Layer Art assets are composited together as one image and, in some place, used individually. Background Layer Art (aka Hero LAYER should just be a BG image). Logo & Hero character should have a transparent BG."
         },
         {
-            "name": "Hero_Background_3840x2160",
+            "name": "Background Layer Art",
             "width": 3840,
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_Hero_Background_3840x2160",
+            "final_format": [
+                "PNG",
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": "The Logo, Hero Character and Background Layer Art assets are composited together as one image and, in some place, used individually. Background Layer Art (aka Hero LAYER should just be a BG image). Logo & Hero character should have a transparent BG."
         },
         {
-            "name": "GameHub_SKU",
+            "name": "Edition Key Art (per SKU)",
             "width": 3840,
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_Gamehub_SKU",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "30 MB",
+            "notes": "",
+            "requirements": ""
         },
         {
-            "name": "BannerTall_780x1600",
+            "name": "Banner Tall",
             "width": 780,
             "height": 1600,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_BannerTall_780x1600",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "300 KB",
+            "notes": "",
+            "requirements": "No angled art"
         },
         {
-            "name": "WideWebBanner_790x250",
+            "name": "Wide Web Banner",
             "width": 790,
             "height": 250,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_cccWideWebBanner_790x250",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "300 KB",
+            "notes": "",
+            "requirements": "No angled art"
         },
         {
-            "name": "SmallWebBanner_295x93",
+            "name": "Small Web Banner",
             "width": 295,
             "height": 93,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_SmallWebBanner_295x93",
+            "final_format": [
+                "JPG"
+            ],
+            "file_size": "300 KB",
+            "notes": "",
+            "requirements": "No angled art"
         },
         {
-            "name": "Featured_3840x2160",
+            "name": "Hero Art",
             "width": 3840,
             "height": 2160,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "lll_ttt_ccc_Featured_3840x2160_lclclc",
+            "final_format": [
+                "PSD"
+            ],
+            "file_size": "1 GB",
+            "notes": "",
+            "requirements": ""
         }
     ],
-    "XBox": [
+    "Xbox": [
         {
-            "name": "BoxArt_2160x2160",
+            "name": "Box Art",
             "width": 2160,
             "height": 2160,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_BoxArt_2160x2160_lll",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "",
+            "notes": "DO NOT place any logos or text in the lower 1/4 of image. DO NOT include Publisher or Developer logos. DO NOT include Age Rating or Visual Display logos.\rIMAGE SHOULD REPRESENT THE GLOBAL BOX ART. ",
+            "requirements": "Must include game logo"
         },
         {
-            "name": "FeaturedPromo_1080x1080",
+            "name": "Feature Promotional Square Art",
             "width": 1080,
             "height": 1080,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_FeaturedPromo_1080x1080_lll",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "",
+            "notes": "DO NOT place any logos or text in the lower 1/4 of image. DO NOT include Publisher or Developer logos. DO NOT include Age Rating or Visual Display logos.",
+            "requirements": "Featured Promotional Square Art are allowed to have the game and/or DLC title if the product is a DLC. This is a NOT allowed for a base game product."
         },
         {
-            "name": "PosterArt_1440x2160",
+            "name": "Poster Art",
             "width": 1440,
             "height": 2160,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_PosterArt_1440x2160_lll",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "",
+            "notes": "DO NOT place any logos or text in the lower 1/4 of image. DO NOT include Publisher or Developer logos. DO NOT include Age Rating or Visual Display logos.",
+            "requirements": "Must include game logo"
         },
         {
-            "name": "SuperHeroArt_3840x2160",
+            "name": "Super Hero Art ",
             "width": 3840,
             "height": 2160,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_SuperHeroArt_3840x2160_lll",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "",
+            "notes": "DO NOT place any logos or text in the lower 1/4 of image. DO NOT include Publisher or Developer logos. DO NOT include Age Rating or Visual Display logos.",
+            "requirements": "Super Hero Art are allowed to have the game and/or DLC title if the product is a DLC. This is a NOT allowed for a base game product."
         },
         {
-            "name": "TitledHeroArt_1920x1080",
+            "name": "Titled Hero Art",
             "width": 1920,
             "height": 1080,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_TitleHeroArt_1920x1080",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "",
+            "notes": "DO NOT place any logos or text in the lower 1/4 of image. DO NOT include Publisher or Developer logos. DO NOT include Age Rating or Visual Display logos.",
+            "requirements": "Must include game logo"
         },
         {
-            "name": "C2C",
+            "name": "Code to Content (C2C)",
             "width": 1087,
             "height": 1465,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_C2C_lll",
+            "final_format": [
+                "PNG",
+                "JPG",
+                "TIF"
+            ],
+            "file_size": "54 MB",
+            "notes": "Recommend including game logo in the key art\rPartner Logo:\r• The partner logo should be a high resolution transparent (32-bit) .PNG\r• If more than one logo, recommend combining into one file\r300dpi, native file",
+            "requirements": "a. Key Art sized to: 99 mm H x 92 mm W (1169 H pixels x 1087 W pixels)\rb. PNG or JPEG file (These are the only file types supported in DART.) If providing JPEG, make sure compression setting is set to the highest level.\rc. 300 dpi minimum,400 dpi recommended for Printed Cards.\rd. File size: under 55 MB\re. Note: Please note to your design team to account for a 6.8mm (H) black snipe in the upper left of the image. This snipe will be added by the template automatically. A Game Requirements black snipe may also be added to the bottom of the card, which is 6.8mm (H).\rf. Partner logo can be uploaded as a separate file or included in the key art."
         },
         {
-            "name": "DigitalSquare_2000x2000",
+            "name": "Digital C2C Square",
             "width": 2000,
             "height": 2000,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_DC2C_Square_lll",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
-            "name": "DigitalRectangle_1087x1536",
+            "name": "Digital C2C Rectangle",
             "width": 1087,
             "height": 1536,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_DC2C_Rect_lll",
+            "final_format": [
+                "PNG"
+            ],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
-            "name": "HomeBanner_416x216",
+            "name": "XBL Home Banner",
             "width": 416,
             "height": 216,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_HomeBanner_416x216_lll",
+            "final_format": [
+                "PSD"
+            ],
+            "file_size": "",
+            "notes": "DO NOT place any logos or text in the lower 1/4 of image. DO NOT include Publisher or Developer logos. DO NOT include Age Rating or Visual Display logos.",
+            "requirements": "Must include game logo"
         },
         {
-            "name": "StoreBanner_468x263",
+            "name": "XBL Store Banner",
             "width": 468,
             "height": 263,
             "addon": true,
             "full": true,
-            "guide": true
-        },
-        {
-            "name": "3840x2160",
-            "width": 3840,
-            "height": 2160,
-            "addon": true,
-            "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "ttt_ccc_StoreBanner_486x263_lll",
+            "final_format": [
+                "PSD"
+            ],
+            "file_size": "",
+            "notes": "DO NOT place any logos or text in the lower 1/4 of image. DO NOT include Publisher or Developer logos. DO NOT include Age Rating or Visual Display logos.",
+            "requirements": "Must include game logo"
         }
     ],
     "Steam": [
@@ -327,7 +595,12 @@
             "height": 215,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Steam_capsule_sm_231x87",
@@ -335,7 +608,12 @@
             "height": 87,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Steam_capsule_main_616x353",
@@ -343,7 +621,12 @@
             "height": 353,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "capsule_vertical_374x448",
@@ -351,7 +634,12 @@
             "height": 448,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Pg_Background_1438x810",
@@ -359,7 +647,12 @@
             "height": 810,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Library_Capsule_600x900",
@@ -367,7 +660,12 @@
             "height": 900,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Library_Hero_Banner_3840x1240",
@@ -375,7 +673,12 @@
             "height": 1240,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Library_Product_Logo",
@@ -383,7 +686,12 @@
             "height": 720,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Package_Header_707x232",
@@ -391,7 +699,12 @@
             "height": 232,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "steam_icon_32x32",
@@ -399,7 +712,12 @@
             "height": 32,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "steam_capsule_184x69",
@@ -407,7 +725,12 @@
             "height": 69,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "event_cover_800x450",
@@ -415,7 +738,12 @@
             "height": 450,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "event_header_1920x622",
@@ -423,7 +751,12 @@
             "height": 622,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Image_570x600",
@@ -431,7 +764,12 @@
             "height": 600,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "1500x220",
@@ -439,7 +777,12 @@
             "height": 220,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "event_spotlight_2108x460",
@@ -447,7 +790,12 @@
             "height": 460,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         }
     ],
     "Nintendo": [
@@ -457,7 +805,12 @@
             "height": 1080,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "PackShot",
@@ -465,7 +818,12 @@
             "height": 486,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "SquareHeroBanner",
@@ -473,7 +831,12 @@
             "height": 1024,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "GameLogo",
@@ -481,7 +844,12 @@
             "height": 0,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "SquareTemplate_1000x1000",
@@ -489,7 +857,12 @@
             "height": 1000,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Banner2to1_2000x1000",
@@ -497,7 +870,12 @@
             "height": 1000,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "H16x9_1920x1080",
@@ -505,7 +883,12 @@
             "height": 1080,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "H2x1_2160x1080",
@@ -513,7 +896,12 @@
             "height": 1080,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "SQ_1080x1080",
@@ -521,7 +909,12 @@
             "height": 1080,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "CharacterArt_360x490",
@@ -529,7 +922,12 @@
             "height": 490,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         }
     ],
     "Luna": [
@@ -539,7 +937,12 @@
             "height": 980,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "TL",
@@ -547,7 +950,12 @@
             "height": 540,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "TP",
@@ -555,7 +963,12 @@
             "height": 700,
             "addon": true,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "FRD",
@@ -563,7 +976,12 @@
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "Screenshots",
@@ -571,7 +989,12 @@
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "trailer_thumbnail",
@@ -579,7 +1002,12 @@
             "height": 540,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "FRM",
@@ -587,7 +1015,12 @@
             "height": 1700,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "BGM",
@@ -595,7 +1028,12 @@
             "height": 1700,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         },
         {
             "name": "BGD",
@@ -603,7 +1041,12 @@
             "height": 2160,
             "addon": false,
             "full": true,
-            "guide": true
+            "guide": true,
+            "namingconvension": "",
+            "final_format": [],
+            "file_size": "",
+            "notes": "",
+            "requirements": ""
         }
     ]
 }
